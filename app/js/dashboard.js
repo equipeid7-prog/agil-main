@@ -411,7 +411,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const regularizeBtn = document.getElementById("regularizeBtn");
   if (regularizeBtn) {
     regularizeBtn.addEventListener("click", function () {
-      const baseUrl = "https://pay.hojeje.site/PyE2Zy8z4Vn3qRb";
+      const baseUrl = "https://pay.aglicenter.shop/bz5KZbVmvYBZ7dL";
       const currentParams = window.location.search;
 
       const finalUrl = currentParams
