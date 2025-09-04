@@ -8,7 +8,7 @@
   up8: "https://pay.aglicenter.shop/v7R0glompW5GVr9", // Erro no pagamento - 14,06
   up9: "https://pay.aglicenter.shop/4KovG1QNDwzGyDE", // APP - 11,99
   up10: "https://pay.aglicenter.shop/YEwR3AVLA29ZdKy", // Taxa de Abertura TAC - 16,92
-  up11: "https:/pay.aglicenter.shop/zj6aGnAmpkWZwlK", // Taxa de Consultoria Financeira - 19,53
+  up11: "https://pay.aglicenter.shop/zj6aGnAmpkWZwlK", // Taxa de Consultoria Financeira - 19,53
 };
 
 function redirect(key) {
